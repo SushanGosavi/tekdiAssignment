@@ -10,7 +10,7 @@ Add new user<br>
 Edit information of existing user
 
 <b>Technologies and Libraries used:</b><br>
-Bootstrap  v3.3.1 :for templating and responsive media
-Plug-in : Zebra_Datepicker 
-Backend : PHP, jQuery
+Bootstrap  v3.3.1 :for templating and responsive media<br>
+Plug-in : Zebra_Datepicker <br>
+Backend : PHP, jQuery<br>
 Frontend : HTML5, CSS3
